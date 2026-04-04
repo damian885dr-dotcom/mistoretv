@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Mi App TV 1",
+    "packageName": "com.tuempresa.miapp1",
+    "version": "1.0.0",
+    "description": "App de prueba",
+    "iconUrl": "https://TUUSUARIO.github.io/mistoretv/app1.jpg",
+    "apkUrl": "https://github.com/TUUSUARIO/mistore-apks/releases/download/v1.0.0/miapp1.apk"
+  }
+]
