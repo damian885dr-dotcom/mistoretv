@@ -22,5 +22,13 @@
         "description":  "Aplicacion de TV optimizada para TV Box y compatible con control remoto.",
         "iconUrl":  "https://damian885dr-dotcom.github.io/mistoretv/tv.png",
         "apkUrl":  "https://damian885dr-dotcom.github.io/mistoretv/tv.apk"
+    },
+    {
+        "name":  "Movie! Plus",
+        "packageName":  "com.dvex.movp",
+        "version":  "16.3",
+        "description":  "App de entretenimiento compatible con TV Box y lanzador Android TV.",
+        "iconUrl":  "https://damian885dr-dotcom.github.io/mistoretv/movieplus.png",
+        "apkUrl":  "https://github.com/damian885dr-dotcom/mistoretv/releases/download/movieplus-16.3/movieplus-16-3-tvs.apk"
     }
 ]
