@@ -1,0 +1,8 @@
+{
+    "name":  "Actualizador TV Box",
+    "packageName":  "com.ramirez.actualizador",
+    "version":  "1.0.1",
+    "description":  "Actualizador optimizado para TV Box con interfaz compatible con control remoto.",
+    "iconUrl":  "https://damian885dr-dotcom.github.io/mistoretv/icons/actualizador-tv-box.png",
+    "apkUrl":  "https://damian885dr-dotcom.github.io/mistoretv/apks/actualizador-tv-box.apk"
+}
