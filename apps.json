@@ -14,5 +14,13 @@
         "description":  "Herramienta de control y bloqueo para TV Box con servicios de sistema.",
         "iconUrl":  "https://damian885dr-dotcom.github.io/mistoretv/control-de-tv-box.png",
         "apkUrl":  "https://damian885dr-dotcom.github.io/mistoretv/control-de-tv-box.apk"
+    },
+    {
+        "name":  "TV",
+        "packageName":  "com.skidush.clonex",
+        "version":  "4.2",
+        "description":  "Aplicacion de TV optimizada para TV Box y compatible con control remoto.",
+        "iconUrl":  "https://damian885dr-dotcom.github.io/mistoretv/tv.png",
+        "apkUrl":  "https://damian885dr-dotcom.github.io/mistoretv/tv.apk"
     }
 ]
