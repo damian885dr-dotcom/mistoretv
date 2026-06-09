@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "name":  "Actualizador TV Box",
         "packageName":  "com.ramirez.actualizador",
@@ -29,12 +29,12 @@
         "version":  "16.3",
         "description":  "App de entretenimiento compatible con TV Box y lanzador Android TV.",
         "iconUrl":  "https://damian885dr-dotcom.github.io/mistoretv/movieplus.png",
-        "apkUrl":  "https://github.com/damian885dr-dotcom/mistoretv/releases/download/movieplus-16.3/movieplus-16-3-tvs.apk"
+        "apkUrl":  "https://github.com/damian885dr-dotcom/mistoretv/releases/download/movieplus-16.3/MoviePlus16.3TVs.apk"
     },
     {
         "name":  "TecnoBox Store",
         "packageName":  "com.tuempresa.mistoretv2",
-        "version":  "1.7",
+        "version":  "1.8",
         "description":  "Tienda premium para TV Box con catalogo de apps, descargas e instalador integrado.",
         "iconUrl":  "https://damian885dr-dotcom.github.io/mistoretv/tecnobox-store.png",
         "apkUrl":  "https://damian885dr-dotcom.github.io/mistoretv/tecnobox-store.apk"
