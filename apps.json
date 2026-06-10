@@ -34,7 +34,7 @@
     {
         "name":  "TecnoBox Store",
         "packageName":  "com.tuempresa.mistoretv2",
-        "version":  "2.4",
+        "version":  "2.5",
         "description":  "Tienda premium para TV Box con catalogo de apps, descargas e instalador integrado.",
         "iconUrl":  "https://damian885dr-dotcom.github.io/mistoretv/tecnobox-store.png",
         "apkUrl":  "https://damian885dr-dotcom.github.io/mistoretv/tecnobox-store.apk"
